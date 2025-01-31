@@ -17,5 +17,5 @@
   <a href="https://steamcommunity.com/profiles/76561199818248106/" targer="_blank"><img loading="lazy" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://x.com/eskretontunaado" targer="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
 </div>
-<h3>17 anos, interessado em Ti desde os 11 anos de idade, com a intenção unica, de no futuro, não trabalhar de carteira assinada...</h3>
+<h3></h3>
 <h1></h1>
