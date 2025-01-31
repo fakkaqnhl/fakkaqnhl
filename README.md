@@ -18,4 +18,3 @@
   <a href="https://x.com/eskretontunaado" targer="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
 </div>
 <h3></h3>
-<h1></h1>
